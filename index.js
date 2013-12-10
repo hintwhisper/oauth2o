@@ -4,4 +4,4 @@
  * authentication module.
  */
 
-var oauth2o = require('./lib');
+module.exports = require('./lib');
